@@ -1,27 +1,27 @@
-📚 Bookmark Manager
+# 📚 Bookmark Manager
 
 A clean, fast, and responsive **Bookmark Manager** built with **React**, designed to help users save, organize, search, and manage their favorite links effortlessly. This project focuses on simplicity, speed, and modern UI practices.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
-## ⭐ Add Bookmarks  
+### ⭐ Add Bookmarks  
 Save URLs along with titles and descriptions.
 
-⭐ Categorize Your Links  
+### ⭐ Categorize Your Links  
 Organize bookmarks into categories for better structure.
 
-⭐ Search & Filter  
+### ⭐ Search & Filter  
 Quickly search bookmarks or filter them by category.
 
-⭐ Edit & Delete  
+### ⭐ Edit & Delete  
 Modify existing bookmarks or remove unwanted ones easily.
 
-⭐ Responsive UI  
+### ⭐ Responsive UI  
 Fully optimized for mobile, tablet, and desktop screens.
 
-⭐ Local Storage Support  
+### ⭐ Local Storage Support  
 All bookmarks persist even after refreshing or closing the browser.
 
 ---
@@ -37,5 +37,6 @@ All bookmarks persist even after refreshing or closing the browser.
 | **Vite** | Fast development environment |
 
 ---
+
 
 
